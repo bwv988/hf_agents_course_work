@@ -1,0 +1,1 @@
+This directory contains all the notebooks relevant to the course.
