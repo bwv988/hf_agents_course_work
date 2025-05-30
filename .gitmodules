@@ -1,0 +1,3 @@
+[submodule "agentic_rag_app/Unit_3_Agentic_RAG"]
+	path = agentic_rag_app/Unit_3_Agentic_RAG
+	url = https://github.com/bwv988/hf_agents_course_work/agentic_rag_app
